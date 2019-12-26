@@ -1,0 +1,21 @@
+{
+  "name": "npm-package-json-lint-todd",
+  "author": "Todd Matheson <tmatheson11186@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "readme": "README.md",
+  "version": "1.0.0",
+  "description": "My custom npm-package-json-lint shared config",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "npm-package-json-lint",
+    "npm-package-json-lintconfig",
+    "npm-package-json-lint-config"
+  ],
+  "dependencies": {
+    "npm-package-json-lint": "^4.5.0"
+  },
+  "peerDependencies": {
+    "npm-package-json-lint": "^4.5.0"
+  }
+}
